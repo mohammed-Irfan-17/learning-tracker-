@@ -1,0 +1,2 @@
+// Pure helper functions (e.g., formatDate, calculateStreak, groupBySubject).
+// No side-effects, no React – plain JS only.

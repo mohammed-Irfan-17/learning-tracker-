@@ -1,0 +1,2 @@
+// Full-page views (e.g., Dashboard, LogEntry, Reports).
+// Each page corresponds to a future route in App.jsx.

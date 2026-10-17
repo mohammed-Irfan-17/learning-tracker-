@@ -1,0 +1,2 @@
+// Custom React hooks (e.g., useLearningData, useLocalStorage).
+// Keeps stateful logic decoupled from components.

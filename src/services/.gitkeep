@@ -1,0 +1,2 @@
+// API / data-layer modules (e.g., sheetsApi.js for Google Apps Script calls).
+// Components never call fetch() directly – they go through a service.

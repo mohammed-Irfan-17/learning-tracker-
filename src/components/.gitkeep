@@ -1,0 +1,2 @@
+// Reusable UI components (e.g., Button, Card, Navbar, Spinner).
+// Each component lives in its own subfolder:  ComponentName/index.jsx + ComponentName.css
